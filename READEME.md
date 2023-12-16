@@ -21,6 +21,6 @@ I'll show you another me👇🏻👇🏻<br><br>
   
 #
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhj94&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naraspc&show_icons=true&theme=dark)
 </div>
 
