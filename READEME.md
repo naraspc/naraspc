@@ -11,7 +11,6 @@ I'll show you another me👇🏻👇🏻<br><br>
 <span><img src="https://img.shields.io/badge/Spring-white?style=flat&logo=Spring&logoColor=6DB33F"/></span>
 <span><img src="https://img.shields.io/badge/Springboot-white?style=flat&logo=Springboot&logoColor=6DB33F"/></span>
 <span><img src="https://img.shields.io/badge/Git-white?style=flat&logo=Git&logoColor=F05032"></span>
-<span><img src="https://img.shields.io/badge/JavaScript-white?style=flat&logo=JavaScript&logoColor=F7DF1E"></span>
 <span><img src="https://img.shields.io/badge/MySQL-white?style=flat&logo=MySQL&logoColor=4479A1"></span>
 
 <br>
